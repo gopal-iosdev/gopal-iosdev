@@ -1,15 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gopal
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Gopal
 =============================================================================================================================
 
-Sr. iOS Engineer
-----------------
-
-\- Product oriented engineer who is always looking to learn and improve. - I aim to inspire teamwork by being a role model and by cultivating a community- oriented mindset. - I have been developing iOS apps for 7 years and am well-versed in Swift and Objective-C.
-
-* 🌍  I'm based in Jersey City, New Jersey
+* 👨🏻‍💻 I have been developing iOS apps for 7 years.
+* 🌍  I'm based in Jersey City, New Jersey.
 * ✉️  You can contact me at [gopal.iosdev@gmail.com](mailto:gopal.iosdev@gmail.com)
 * 🚀  I'm currently working on [Epic!](http://apps.apple.com/us/app/epic-books-for-kids/id719219382)
-* 🧠  I'm learning SwiftUI, Using dev tools to be efficient.
+* 🧠  I'm learning SwiftUI, Using dev tools to be efficient engineer.
 * 🤝  I'm open to collaborating on iOS, Mac OS Projects.
 
 ### Skills
@@ -26,7 +22,11 @@ Sr. iOS Engineer
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/gopal_iosdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/gopal-iosdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gopal-rao-gurram-85a715103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5817372/gopal-iosdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gopal_iosdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.twitter.com/gopal_iosdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/gopal-rao-gurram-85a715103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/5817372/gopal-iosdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+</p>
 
 ### Badges
 
