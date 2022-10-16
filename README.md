@@ -4,12 +4,10 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 * 👨🏻‍💻 I have been developing iOS apps for 7 years.
 * 🌍  I'm based in Jersey City, New Jersey.
 * ✉️  You can contact me at [gopal.iosdev@gmail.com](mailto:gopal.iosdev@gmail.com)
-* 🚀  I'm currently working on [Epic!](http://apps.apple.com/us/app/epic-books-for-kids/id719219382)
-* 🧠  I'm learning SwiftUI, Using dev tools to be efficient engineer.
+* 🚀  I'm currently working as Sr. iOS Engineer at [Epic!](http://apps.apple.com/us/app/epic-books-for-kids/id719219382)
 * 🤝  I'm open to collaborating on iOS, Mac OS Projects.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
