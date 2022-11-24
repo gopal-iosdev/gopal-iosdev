@@ -9,9 +9,10 @@ Developer
 * 🤝 I'm open to collaborating on interesting projects as a developer.
 
 <a href="https://www.twitter.com/gopal_iosdev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/gopal_iosdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/gopal-iosdev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/gopal-iosdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/twitter/follow/gopal_iosdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>&emsp;
+<a href="https://www.github.com/gopal-iosdev" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/gopal-iosdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>&emsp;
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gopal-iosdev&color=55acb7&style=for-the-badge&logo=Github)
 
 ### Skills
 
@@ -49,5 +50,4 @@ Developer
 
 <a href="http://www.github.com/gopal-iosdev"><img src="https://github-readme-stats.vercel.app/api?username=gopal-iosdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
 <a href="http://www.github.com/gopal-iosdev"><img src="https://activity-graph.herokuapp.com/graph?username=gopal-iosdev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/gopal-iosdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-iosdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/gopal-iosdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-iosdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br>
