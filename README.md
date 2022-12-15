@@ -12,8 +12,7 @@ Developer
                   src="https://img.shields.io/twitter/follow/gopal_iosdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>&emsp;
 <a href="https://www.github.com/gopal-iosdev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/gopal-iosdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>&emsp;
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gopal-iosdev&color=55acb7&style=for-the-badge&logo=Github)
-
+                  
 ### Skills
 
 <p align="left">
