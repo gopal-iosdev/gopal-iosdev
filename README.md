@@ -5,7 +5,7 @@ Developer
 * 🌍  I'm based in 🏛️, 🇺🇸.
 * 👨🏻‍💻  I have been developing iOS apps for more than 10 years.
 * ✉️  You can DM me here(<a href="https://www.twitter.com/gopal_iosdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="16" height="16" /></a>) or there(<a href="https://www.linkedin.com/in/gopal-rao-gurram-85a715103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" /></a>).
-* 🚀 I'm currently working as Sr. iOS Engineer at [Farmers Insurance](https://apps.apple.com/us/app/farmers-insurance-inc/id373431224)
+* 🚀 I'm currently working as Lead Software Engineer at [Farmers Insurance](https://apps.apple.com/us/app/farmers-insurance-inc/id373431224)
 
 <a href="https://www.twitter.com/gopal_iosdev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/gopal_iosdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>&emsp;
